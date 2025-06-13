@@ -16,7 +16,7 @@
    python book_recommendation_ai.py
    
 3. You can replace books.csv with a larger dataset for better recommendations. books.csv is only a presentation of how the dataset should look like.  
-   For example: Refer to https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset this Kraggle website which has a lot of dataset of books and will provide better suggestions for the users. 
+   For example: Refer to https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset this Kaggle website which has a lot of dataset of books and will provide better suggestions for the users. 
 
 ## Dataset Format:
 The CSV file should contain the following columns:
